@@ -1,3 +1,6 @@
+Note: This readme file is the one provided with the starter files for this project by the Electronics and Robotics club, IIT  Bombay.
+To run the project, run the line_follower_color.py file.
+
 # Line Follower
 
 The filed python files contain starter environments in which you have to add your own code.
